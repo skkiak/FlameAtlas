@@ -1,6 +1,6 @@
 # FlameAtlas
 
-Демо: https://skkiak.github.io/Flame-Atlas/
+Демо: https://skkiak.github.io/FlameAtlas/
 
 NASA Space Apps 2026 · «Flame in Freefall». Дашборд по экспериментам NASA по горению в микрогравитации.
 
