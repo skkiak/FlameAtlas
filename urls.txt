@@ -1,0 +1,29 @@
+# Прямые ссылки на PDF (NASA NTRS). Одна ссылка в строке. Запуск: python -m pipeline.download
+# Saffire (пожары в космическом корабле Cygnus)
+https://ntrs.nasa.gov/api/citations/20240002981/downloads/Saffire-ICES-2024-ICES-365-accepted%20final.pdf
+https://ntrs.nasa.gov/api/citations/20240007488/downloads/Saffire%20ICES%202024%20Saffire%20presentation072124small.pdf
+https://ntrs.nasa.gov/api/citations/20210011521/downloads/ICES%202021-266%200503-2021%20final.pdf
+https://ntrs.nasa.gov/api/citations/20210017780/downloads/Saffire%20ICES%202021%20Saffire%20Final%20presentation%20compressed.pdf
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170008805.pdf
+https://ntrs.nasa.gov/api/citations/20180005168/downloads/20180005168.pdf
+https://ntrs.nasa.gov/api/citations/20150000894/downloads/20150000894.pdf
+# SoFIE и BASS (твёрдые материалы)
+https://ntrs.nasa.gov/api/citations/20240007628/downloads/GELsymposiumfinalRev1.pdf
+https://ntrs.nasa.gov/api/citations/20200000361/downloads/20200000361.pdf
+https://ntrs.nasa.gov/api/citations/20190030735/downloads/20190030735.pdf
+https://ntrs.nasa.gov/api/citations/20160000593/downloads/20160000593.pdf
+https://ntrs.nasa.gov/api/citations/20150008962/downloads/20150008962.pdf
+# FLEX (капли жидкого топлива)
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20130014061.pdf
+https://ntrs.nasa.gov/api/citations/20140006750/downloads/20140006750.pdf
+# Ранние эксперименты (самолёты и башни свободного падения)
+https://ntrs.nasa.gov/api/citations/19930011018/downloads/19930011018.pdf
+# Официальные описания экспериментов со страницы NASA Combustion Science
+https://www.nasa.gov/wp-content/uploads/2025/07/advanced-combustion-via-microgravity-experiments-acme.pdf?emrc=640d06
+https://www.nasa.gov/wp-content/uploads/2025/07/burning-and-suppression-of-solids-bass.pdf?emrc=3a5c2c
+https://www.nasa.gov/wp-content/uploads/2025/07/flame-extinguishment-experiment-flex.pdf?emrc=f75994
+https://www.nasa.gov/wp-content/uploads/2025/07/spacecraft-fire-safety-demonstration-saffire.pdf?emrc=48d415
+https://www.nasa.gov/wp-content/uploads/2025/07/structure-liftoff-in-combustion-experiment-slice.pdf?emrc=da32af
+https://www.nasa.gov/wp-content/uploads/2025/07/smoke-point-in-co-flow-experiment-spice.pdf?emrc=f30479
+https://www.nasa.gov/wp-content/uploads/2025/07/smoke-aerosol-measurement-experiment-same.pdf?emrc=b828be
+https://www.nasa.gov/wp-content/uploads/2025/07/dust-and-aerosol-measurement-feasibility-test-daft.pdf?emrc=583171
